@@ -1,1 +1,2 @@
-desenvoldorsa
+Desenvoldors/a
+A meta e dominar o git
